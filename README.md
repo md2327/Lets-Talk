@@ -1,4 +1,4 @@
-# Mini-Chatbot
+# Let's Talk
 
 Through the Streamlit deployment platform, the user is able to interact with Mini Chatbot.
 Application utilizes the pre-trained model DialoGPT to craft responses within context. 
